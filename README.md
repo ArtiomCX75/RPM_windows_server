@@ -1,4 +1,4 @@
-# RPM_windows_server<br>
+# RPM windows server<br>
 Simple remote power manager for pc<br><br>
 Start "start server.bat" for launch simple webserver on localhost:60000 <br>
 - /rpm/ - help page with simple control panel<br>
